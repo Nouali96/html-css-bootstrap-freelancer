@@ -16,3 +16,21 @@
     margin-left: 96px;
     margin-right: 96px;
 }
+
+.ms_bg_green{
+    background-color: #1ABC9C;
+}
+
+.ms_footer_top{
+    background-color: #3A546D;
+    color: white;
+}
+
+.ms_footer_bottom{
+    background-color: #2C3E50;
+    color: white; 
+}
+
+.rounded-10{
+    border-radius: 10px;
+}
