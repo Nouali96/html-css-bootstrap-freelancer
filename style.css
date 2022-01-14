@@ -34,3 +34,8 @@
 .rounded-10{
     border-radius: 10px;
 }
+
+.px50x50{
+    height: 40px;
+    width: 40px;
+}
