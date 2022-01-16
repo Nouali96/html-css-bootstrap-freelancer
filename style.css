@@ -76,10 +76,12 @@ text-align: center;
 
 .box:hover .image {
 opacity: 0.3;
+cursor: pointer;
 }
 
 .box:hover .middle {
 opacity: 1;
+cursor: pointer;
 }
 
 .plus {
